@@ -137,3 +137,12 @@ npm start
 ## Licence
 
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+
+## Auteur
+
+- _*BENIE SYLVESTRE*_
+
+## Remerciement
+
+- _M. MAXENCE YROWAH mon instructeur_
+- _GOMYCODE_
